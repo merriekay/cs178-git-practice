@@ -3,3 +3,6 @@ Name: Caroline
 My favorite color is: pink
 
 My favorite animal is: cat
+
+My favorite subject: math
+
